@@ -1,0 +1,12 @@
+
+spring:
+    redis:
+        database: 0
+        host: 108.61.246.69
+        port: 6379
+
+#???autotype??????
+fastjson:
+  parser:
+    autoTypeAccept: com.example.
+
